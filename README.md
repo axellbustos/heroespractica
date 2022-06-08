@@ -3,4 +3,4 @@
 ## integrantes
 -Axel Bustos   Edad: 25 Residencia: Cutral-co
 -Jorge Godoy Duarte edad :31  residencia : Bs As , San Miguel.
--Lucas Amaya
+-Lucas Amaya , edad 24 años , San Miguel Buenos Aires
